@@ -81,13 +81,13 @@ const akhilesh = {
 
 # 🧠 What I Build
 
-✅ Full Stack MERN Applications
-✅ REST APIs & Backend Systems
-✅ Authentication & Authorization Systems
-✅ MongoDB Database Architectures
-✅ AI-Powered Applications
-✅ Modern Responsive Web Interfaces
-✅ Scalable Backend Services
+* 🔷 Full Stack MERN Applications
+* 🔷 REST APIs & Backend Systems
+* 🔷 Authentication & Authorization Systems
+* 🔷 MongoDB Database Architectures
+* 🔷 AI-Powered Applications
+* 🔷 Modern Responsive Web Interfaces
+* 🔷 Scalable Backend Services
 
 ---
 # 🏆 Current Goals
