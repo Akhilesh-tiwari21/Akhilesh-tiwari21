@@ -15,7 +15,7 @@
 # 🚀 Developer Profile
 
 ```js
-const akhil = {
+const akhilesh = {
   role: "Software Developer",
   specialization: [
     "Full Stack Development",
