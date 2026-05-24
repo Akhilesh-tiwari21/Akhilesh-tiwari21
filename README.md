@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi 👋 I'm
 
 <div align="center">
 
-# 👨‍💻 AKHIL TIWARI
+# 👨‍💻 AKHILESH TIWARI
 
 ### Software Developer • Full Stack Engineer • Backend Developer
 
