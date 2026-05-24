@@ -43,7 +43,7 @@ const akhilesh = {
 
 ---
 
-# ⚡ Tech Arsenal
+# ⚡ MY Teach Stack
 
 <div align="center">
 
