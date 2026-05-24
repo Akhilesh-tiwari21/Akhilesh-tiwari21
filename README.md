@@ -31,7 +31,7 @@ const akhil = {
   ],
 
   techStack: {
-    frontend: ["React.js", "Tailwind CSS", "Bootstrap"],
+    frontend: ["React.js", "Tailwind CSS"],
     backend: ["Node.js", "Express.js"],
     database: ["MongoDB", "MongoDB Atlas", "MySQL"],
     tools: ["Git", "GitHub", "Postman", "VS Code"]
@@ -55,7 +55,7 @@ const akhil = {
 
 ## ⚛️ Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind" />
 
 ---
 
@@ -67,7 +67,7 @@ const akhil = {
 
 ## 🗄️ Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 ---
 
